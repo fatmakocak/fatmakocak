@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 
 - 🔭 I’m currently working on VBT Yazılım A.Ş
